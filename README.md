@@ -18,8 +18,7 @@ Este repositório utiliza as seguintes tecnologias e bibliotecas para análise d
 - **Scikit-learn**: Biblioteca essencial para aprendizado de máquina, oferecendo implementações de modelos e ferramentas de pré-processamento.
 - **TensorFlow e Keras**: Frameworks para construção de modelos de aprendizado profundo (Deep Learning).
 - **SciPy**: Biblioteca para cálculos científicos e operações avançadas em álgebra linear, otimização e estatísticas.
-- **Statsmodels**: Utilizada para modelos estatísticos, incluindo testes de hipóteses e regressão.
-- **SQLAlchemy**: Biblioteca para interação com bancos de dados, útil para integração de Python com SQL.
+
   
 ### Como Contribuir
 
